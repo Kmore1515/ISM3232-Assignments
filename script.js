@@ -16,3 +16,7 @@ console.log(accountbalance, "Balance after Deposit")
 accountbalance -= 2,500
 console.log(accountbalance, "Balance after Withdrawl")
 
+let employeescore1 = 86
+let employeescore2 = 91
+console.log(employeescore1 < employeescore2)
+
